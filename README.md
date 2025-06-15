@@ -21,17 +21,20 @@
 
 ---
 
-<img align="right" alt="Coding" width="500" height="300" src="https://i.pinimg.com/originals/e7/91/61/e791611718215a0cfc0ab96e71d1dc3f.gif"/>
+<img align="right" alt="Coding" width="500" height="300" src="https://spectrum.ieee.org/media-library/an-animated-gif-showing-a-small-black-humanoid-robot-doing-some-dance-moves.gif?id=53509949&width=2400&height=1350">
+<div align="left" style="max-width: 40%; text-align: left;">
+  
+<ul>
+  <li>🎙 I’m currently building <strong>Barbarika: a decentralized robotics foundation model</strong></li>
+  <li>🌱 I’m currently learning <strong>Julia, Active Inference, RxInfer, Model-based Reinforcement Learning</strong></li>
+  <li>💬 Ask me about <strong>robotics, world models, active inference, and decentralized AI</strong></li>
+  <li>📫 Reach me at <a href="mailto:anasuryaapple@gmail.com"><strong>anasuryaapple@gmail.com</strong></a></li>
+  <li>🤝 I’m looking to collaborate on <strong>open-source projects related to Active Inference, world models for robotics</strong></li>
+  <li>👀 I’m interested in <strong>robotics, AGI, decentralized AI, world modeling, and simulation</strong></li>
+  <li>⚡ Fun fact: <strong>I don’t babysit LLMs. I raise baby robots with world models</strong></li>
+</ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumar&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="praveenkumar" /> </p>
-
-- 🔭 I’m currently building **Barbarika: a decentralized robotics foundation model**
-- 🌱 I’m currently learning **Julia, Active Inference, RxInfer, Model-based Reinforcement Learning**
-- 💬 Ask me about **robotics, world models, active inference, and decentralized AI**
-- 📫 Reach me at **anasuryaapple@gmail.com**
-- 👯 I’m looking to collaborate on **open-source projects related to Active Inference, world models for robotics**
-- 👀 I’m interested in **robotics, AGI, decentralized AI, world modeling, and simulation**
-- ⚡ Fun fact: ** I don’t babysit LLMs. I raise baby robots with world models**
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
